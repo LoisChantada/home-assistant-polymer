@@ -1,0 +1,13 @@
+
+{
+  "language": {
+    "es": "Español"
+  },
+  "panel": {
+    "states": "Estados",
+    "map": "Mapa",
+    "logbook": "Libro de registro",
+    "history": "Histórico",
+    "log_out": "Cerrar sesión"
+  }
+}
